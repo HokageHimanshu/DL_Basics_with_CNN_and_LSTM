@@ -36,7 +36,7 @@ Image classification task was implemented using CNN model exploring
 Text classification task was implemented using LSTM model exploring different number of occurences context, analysing the model using through accuracy and f1 score plots. More previous context helps in achieving better metric values. 
 
 
-More detailed analysis can be found [here](./Report.pdf)
+More detailed analysis can be found in the Report.pdf
 
 ## Acknowledgments
 This exercise was a part of my CSES641 Deep learning course.
